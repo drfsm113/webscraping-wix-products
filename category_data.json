@@ -1,0 +1,938 @@
+{
+    "fiber_sculptures_and_murals": {
+        "count": 7,
+        "products": [
+            {
+                "name": "Buddha Sculpture Made Of Fiberglass",
+                "price": "\u20b95,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_207e384cd5a54d34bfbe71cef4645673~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_207e384cd5a54d34bfbe71cef4645673~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/buddha-sculpture-made-of-fiberglass"
+            },
+            {
+                "name": "Sculpture Of Nandhi Made Of Fiberglass",
+                "price": "\u20b96,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_a358dbd278034fe68a060e3bd914c168~mv2.jpg/v1/fill/w_284,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_a358dbd278034fe68a060e3bd914c168~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/sculpture-of-nandhi-made-of-fiberglass"
+            },
+            {
+                "name": "Lord Venkateswara Sculpture Made Of Fiberglass",
+                "price": "\u20b912,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_e101c02fe2c743e09887a06ab4d2f42f~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_e101c02fe2c743e09887a06ab4d2f42f~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-venkateswara-sculpture-made-of-fiberglass"
+            },
+            {
+                "name": "Ganesh Fiber",
+                "price": "\u20b93,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_40eed168b39c42589f43077580b3e447~mv2.jpeg/v1/fill/w_352,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_40eed168b39c42589f43077580b3e447~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/ganesh-fiber"
+            },
+            {
+                "name": "Lord Ganesh Fiber",
+                "price": "\u20b918,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_30da16f4fdcd4ace9f047fb5bdb93a79~mv2.jpeg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_30da16f4fdcd4ace9f047fb5bdb93a79~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-ganesh-fiber"
+            },
+            {
+                "name": "Lord Shiva Fiber",
+                "price": "\u20b911,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_1b152c3555954e4eb5e2e733f13a205d~mv2.jpeg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_1b152c3555954e4eb5e2e733f13a205d~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-shiva-fiber"
+            },
+            {
+                "name": "Lord Radha Krishna Fiber",
+                "price": "\u20b912,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_2b55df73284b4e1d948ba7b5f2766929~mv2.jpeg/v1/fill/w_352,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_2b55df73284b4e1d948ba7b5f2766929~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-radha-krishna-fiber"
+            }
+        ]
+    },
+    "god_idols": {
+        "count": 26,
+        "products": [
+            {
+                "name": "Resin Hanuman Idol",
+                "price": "\u20b92,200.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_b4e2ae59ec514cc191dbaaea0ccc5b11~mv2.jpg/v1/fill/w_252,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_b4e2ae59ec514cc191dbaaea0ccc5b11~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/resin-hanuman-idol"
+            },
+            {
+                "name": "Resin Hanuman Idol",
+                "price": "\u20b92,200.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_be64c64a22194becb21cc9c51e4ed9e3~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_be64c64a22194becb21cc9c51e4ed9e3~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/resin-hanuman--idol"
+            },
+            {
+                "name": "Resin Radha Krishna Idol",
+                "price": "\u20b97,800.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_8b84ec6e1a3c4a319a0cf1dbd4267f22~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_8b84ec6e1a3c4a319a0cf1dbd4267f22~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/resin-radha-krishna-idol"
+            },
+            {
+                "name": "Resin Radha Idol",
+                "price": "\u20b93,900.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_eeba2b71d9a4403da3f8c3fcb5210f77~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_eeba2b71d9a4403da3f8c3fcb5210f77~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/resin--radha-idol"
+            },
+            {
+                "name": "Resin Krishna Idol",
+                "price": "\u20b93,900.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_11faeb99dc154e9e96d5e803bec274f1~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_11faeb99dc154e9e96d5e803bec274f1~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/resin-krishna-idol"
+            },
+            {
+                "name": "Vishnu Idol Made Of Resin",
+                "price": "\u20b92,900.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_7b852506af9e42f68d2178250c456dd0~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_7b852506af9e42f68d2178250c456dd0~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/vishnu-idol-made-of-resin"
+            },
+            {
+                "name": "Laxmi Idol Made Of Resin",
+                "price": "\u20b92,400.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_3a5e4d6d4b5949e8bc0de3f518d7909d~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_3a5e4d6d4b5949e8bc0de3f518d7909d~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi-idol-made-of-resin"
+            },
+            {
+                "name": "Vishnu Laxmi Idol Made Of Resin",
+                "price": "\u20b95,300.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_473145ad636e412f849c4388fba31eb3~mv2.jpg/v1/fill/w_147,h_184,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_473145ad636e412f849c4388fba31eb3~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/vishnu-laxmi-idol-made-of-resin"
+            },
+            {
+                "name": "Laxmi Idol Made Of Resin",
+                "price": "\u20b91,850.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_c18ee1fc6f4547679c294b30a1e38a6f~mv2.jpg/v1/fill/w_147,h_193,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_c18ee1fc6f4547679c294b30a1e38a6f~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi---idol-made-of-resin"
+            },
+            {
+                "name": "Saraswathi Idol Made From Resin",
+                "price": "\u20b92,600.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_e894e6da3f1347989a8264b1063b9ff6~mv2.jpg/v1/fill/w_147,h_204,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_e894e6da3f1347989a8264b1063b9ff6~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/saraswathi-idol-made-from-resin"
+            },
+            {
+                "name": "Tirupati Balaji Resin Idol",
+                "price": "\u20b97,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_f9483b2577d04386b35fda56e28ffb87~mv2.jpg/v1/fill/w_147,h_206,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_f9483b2577d04386b35fda56e28ffb87~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/tirupati-balaji-resin-idol"
+            },
+            {
+                "name": "Shiva Family Idol Resin",
+                "price": "\u20b92,600.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_b86c9cbf42f84ba6912d0ab8c07ba07b~mv2.jpg/v1/fill/w_147,h_191,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_b86c9cbf42f84ba6912d0ab8c07ba07b~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/shiva-family-idol-resin"
+            },
+            {
+                "name": "Krishna Idol Made Of Resin",
+                "price": "\u20b95,200.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_8806442eb8fc44d480ae2b140220c350~mv2.jpg/v1/fill/w_147,h_195,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_8806442eb8fc44d480ae2b140220c350~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/krishna-idol-made-of-resin"
+            },
+            {
+                "name": "Shiva Idol Made Of Resin",
+                "price": "\u20b94,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_968ebb345cb8456e803bcf1b8c69d9f2~mv2.jpg/v1/fill/w_147,h_193,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_968ebb345cb8456e803bcf1b8c69d9f2~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/shiva-idol-made-of-resin"
+            },
+            {
+                "name": "Ganesha Idol Made Of Resin",
+                "price": "\u20b99,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_cbec1043eb8f4588a520a4cebdf6af06~mv2.jpg/v1/fill/w_147,h_201,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_cbec1043eb8f4588a520a4cebdf6af06~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/ganesha-idol-made-of-resin"
+            },
+            {
+                "name": "Laxmi Ganesha Idol Made Of Resin",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_3d9410a6a6e046199f284a4f9b7cf2ee~mv2.jpg/v1/fill/w_147,h_173,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_3d9410a6a6e046199f284a4f9b7cf2ee~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi-ganesha-idol-made-of-resin"
+            },
+            {
+                "name": "Radha Krishna Idol in Resin",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_55b72b6b326343159d65586beb7665fe~mv2.jpg/v1/fill/w_147,h_209,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_55b72b6b326343159d65586beb7665fe~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/radha-krishna-idol-in-resin"
+            },
+            {
+                "name": "Hanuman Idol Made Of Resin",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_12512fa9481d4f52b5b30f1e1496c245~mv2.jpg/v1/fill/w_147,h_179,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_12512fa9481d4f52b5b30f1e1496c245~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hanuman-idol-made-of-resin"
+            },
+            {
+                "name": "Laxmi Idol Made Of Resin",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_95d72261dbad4d9a8cdf7b8fa4b07511~mv2.jpg/v1/fill/w_147,h_196,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_95d72261dbad4d9a8cdf7b8fa4b07511~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi-idol-made-of--resin"
+            },
+            {
+                "name": "Radha Krishna Idol in Resin",
+                "price": "\u20b99,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_b3a0b2fdeefa45b9bdbfb1dc88656cfc~mv2.jpg/v1/fill/w_127,h_155,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_b3a0b2fdeefa45b9bdbfb1dc88656cfc~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/radha-krishna-idol-in--resin"
+            },
+            {
+                "name": "Krishna Idol in Resin",
+                "price": "\u20b94,750.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_20ce486c15c449a5b1b258016be895a5~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_20ce486c15c449a5b1b258016be895a5~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/krishna--idol-in-resin"
+            },
+            {
+                "name": "Radha Idol in Resin",
+                "price": "\u20b94,750.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_89aa924b4ca84e2a87a6635d713c0bac~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_89aa924b4ca84e2a87a6635d713c0bac~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/radha-idol-in-resin"
+            },
+            {
+                "name": "Ganesh Idol in Resin",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_2647521d36ae4226b7cd41239800d2a1~mv2.jpg/v1/fill/w_252,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_2647521d36ae4226b7cd41239800d2a1~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/ganesh-idol-in-resin"
+            },
+            {
+                "name": "Sai Baba Idol in Resin",
+                "price": "\u20b91,800.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_69b3b16907b64025a684214c3f9f8f22~mv2.jpg/v1/fill/w_312,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_69b3b16907b64025a684214c3f9f8f22~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/sai-baba-idol-in-resin"
+            },
+            {
+                "name": "Lord Sai Baba Idol in Resin",
+                "price": "\u20b94,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_260ccae2e4a7430b8941621d7522d7c8~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_260ccae2e4a7430b8941621d7522d7c8~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-sai-baba-idol-in-resin"
+            },
+            {
+                "name": "Sai Baba Idol in Resin",
+                "price": "\u20b92,400.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_54ecfd5598414715b8eb57c60cc264f7~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_54ecfd5598414715b8eb57c60cc264f7~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/sai--baba-idol-in-resin"
+            }
+        ]
+    },
+    "tanjore_paintings": {
+        "count": 39,
+        "products": [
+            {
+                "name": "Krishna Butter Lord Ganesh Thanjavur Painting",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_3b4698c5730941d691c8a42b08f66c3a~mv2.jpg/v1/fill/w_252,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_3b4698c5730941d691c8a42b08f66c3a~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/krishna-butter-lord-ganesh-thanjavur-painting"
+            },
+            {
+                "name": "Shiva Family Thanjavur Painting",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_a1f0aa2be34644b8b449b56c30d25362~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_a1f0aa2be34644b8b449b56c30d25362~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/shiva--family-thanjavur-painting"
+            },
+            {
+                "name": "Panchamukhi Hanuman Thanjavur Painting",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_56e5240d7e144d358ba058bc3d1caa76~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_56e5240d7e144d358ba058bc3d1caa76~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/panchamukhi-hanuman-thanjavur-painting"
+            },
+            {
+                "name": "Krishna With Cow and Flute Thanjavur Painting",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_a627498a1c4a4f1c9768449324fd81ec~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_a627498a1c4a4f1c9768449324fd81ec~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/krishna-with-cow-and-flute-thanjavur-painting"
+            },
+            {
+                "name": "Bhavaani Thanjavur Painting",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_2050678c43fa4392a424ddf7ef1fc490~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_2050678c43fa4392a424ddf7ef1fc490~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/bhavaani-thanjavur-painting"
+            },
+            {
+                "name": "Bhramarmbika Devi Thanjavur Painting",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_0070533a25c248419c285a96c601b79e~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_0070533a25c248419c285a96c601b79e~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/bhramarmbika-devi-thanjavur-painting"
+            },
+            {
+                "name": "Padmavathi And Vishnu Thanjavur Painting",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_831c12bbd05c43cb8d0b20b813a225d6~mv2.jpg/v1/fill/w_147,h_194,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_831c12bbd05c43cb8d0b20b813a225d6~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/padmavathi-and-vishnu-thanjavur-painting"
+            },
+            {
+                "name": "Lord Ayyappa Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_aefc2f32463b4f148a002a11aeb4291a~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_aefc2f32463b4f148a002a11aeb4291a~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-ayyappa---thanjavur-painting"
+            },
+            {
+                "name": "Radha KrishnaThanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_365a79bd906d4e718df05312e47cb96f~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_365a79bd906d4e718df05312e47cb96f~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/radha-krishnathanjavur-painting"
+            },
+            {
+                "name": "Lord Krishna Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_d875921878524f8c83375be72734062b~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_d875921878524f8c83375be72734062b~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-krishna-thanjavur-painting"
+            },
+            {
+                "name": "Lord Ganesh Thanjavur Painting",
+                "price": "\u20b97,700.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_7519593cfa7f44168714064fbd9ee02d~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_7519593cfa7f44168714064fbd9ee02d~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-ganesh-thanjavur-painting"
+            },
+            {
+                "name": "Hanuman Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_62844cfb83cd4d028494460f62fefebe~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_62844cfb83cd4d028494460f62fefebe~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hanuman-thanjavur-painting"
+            },
+            {
+                "name": "Thanjavur Painting Of Radha Krishna",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_04d69092143b4c9493d70584c83b6f2e~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_04d69092143b4c9493d70584c83b6f2e~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/thanjavur-painting-of-radha-krishna"
+            },
+            {
+                "name": "Thanjavur Painting Rama Pattabhishekam",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_bbb416f681dd42b882f4b3adda1e8639~mv2.jpg/v1/fill/w_147,h_208,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_bbb416f681dd42b882f4b3adda1e8639~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/thanjavur-painting-rama-pattabhishekam"
+            },
+            {
+                "name": "Thanjavur Painting of Sai Baba",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_58525b6090494b6b98c11139dcab67a3~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_58525b6090494b6b98c11139dcab67a3~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/thanjavur-painting-of-sai-baba"
+            },
+            {
+                "name": "Saraswati Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_8a6971c321a744a594bb06f3285c7bb3~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_8a6971c321a744a594bb06f3285c7bb3~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/saraswati-thanjavur-painting"
+            },
+            {
+                "name": "Sathyanarayana Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_20afc451d964488298f92559ab0679f4~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_20afc451d964488298f92559ab0679f4~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/sathyanarayana-thanjavur-painting"
+            },
+            {
+                "name": "Thanjavur Painting of the Lord Shiva Family",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_666f7bfa4663412b96e70cad2c72993d~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_666f7bfa4663412b96e70cad2c72993d~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/thanjavur-painting-of-the-lord-shiva-family"
+            },
+            {
+                "name": "Venkateswara Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_5631f7daadd14bfc8e8ba3510e81033d~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_5631f7daadd14bfc8e8ba3510e81033d~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/venkateswara-thanjavur-painting"
+            },
+            {
+                "name": "Dattatreya Swamy Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_8b3b2c5c9d39450f8d583b453a6e927f~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_8b3b2c5c9d39450f8d583b453a6e927f~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/dattatreya-swamy-thanjavur-painting"
+            },
+            {
+                "name": "Two Birds Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_aac6b7e0a30948aaa8f9defc036e5ce2~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_aac6b7e0a30948aaa8f9defc036e5ce2~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/two-birds-thanjavur-painting"
+            },
+            {
+                "name": "Two PeacocksThanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_4ec5785e8d054886be6ae2a14a27305d~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_4ec5785e8d054886be6ae2a14a27305d~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/two-peacocksthanjavur-painting"
+            },
+            {
+                "name": "Lord Bala Ganesha Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_6c413888fe4c4012864a18aca01e202d~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_6c413888fe4c4012864a18aca01e202d~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-bala-ganesha-thanjavur-painting"
+            },
+            {
+                "name": "Bala Krishna Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_d875921878524f8c83375be72734062b~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/be4518_d875921878524f8c83375be72734062b~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/bala-krishna-thanjavur-painting"
+            },
+            {
+                "name": "Lord Butter Krishna Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_3e42e5f45c7e413d9096602bac2e3e61~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/be4518_3e42e5f45c7e413d9096602bac2e3e61~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-butter-krishna-thanjavur-painting"
+            },
+            {
+                "name": "Golden Bird Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_45ad713b2b4e4e698b0e93746df396d9~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/be4518_45ad713b2b4e4e698b0e93746df396d9~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/golden-bird-thanjavur-painting"
+            },
+            {
+                "name": "Lord Krishna Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_2e5aac48636b400aaae535297ad5c8a3~mv2.jpg/v1/fill/w_352,h_235,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/be4518_2e5aac48636b400aaae535297ad5c8a3~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord--krishna-thanjavur-painting"
+            },
+            {
+                "name": "Lord Radha Krishna Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_365a79bd906d4e718df05312e47cb96f~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/be4518_365a79bd906d4e718df05312e47cb96f~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-radha-krishna-thanjavur-painting"
+            },
+            {
+                "name": "Kamadhenu Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_358db35b6325477595af1d5163e41bce~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_358db35b6325477595af1d5163e41bce~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/kamadhenu-thanjavur-painting"
+            },
+            {
+                "name": "Lord Profile Ganesha Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_2642c22fc1eb4ed6a8cd1c50901f32ad~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_2642c22fc1eb4ed6a8cd1c50901f32ad~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-profile-ganesha-thanjavur-painting"
+            },
+            {
+                "name": "Om Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_8725eb96720f46dc8238649b66e08320~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_8725eb96720f46dc8238649b66e08320~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/om-thanjavur-painting"
+            },
+            {
+                "name": "Lord Krishna Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_07c8bee2bd0f433e94517f8363b9c9ab~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_07c8bee2bd0f433e94517f8363b9c9ab~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-krishna--thanjavur-painting"
+            },
+            {
+                "name": "Lord Krishna Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_dcc9add82cf64b5fac2e7c4685da83bf~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_dcc9add82cf64b5fac2e7c4685da83bf~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord--krishna---thanjavur-painting"
+            },
+            {
+                "name": "Radha Krishna Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_2e30543241204df19d0c399993e64ba0~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_2e30543241204df19d0c399993e64ba0~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/radha--krishna--thanjavur-painting"
+            },
+            {
+                "name": "Venkateswara Swami Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_56af891a2c6645ff907bce7972baf687~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_56af891a2c6645ff907bce7972baf687~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/venkateswara-swami-thanjavur-painting"
+            },
+            {
+                "name": "Sai BabaThanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_836fa58d0b9246529156ad65d85c0dac~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_836fa58d0b9246529156ad65d85c0dac~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/sai---babathanjavur-painting"
+            },
+            {
+                "name": "Sri Raam Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_5e73fe2ccc804de2b5ab3c0f26698c4d~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_5e73fe2ccc804de2b5ab3c0f26698c4d~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/sri-raam-thanjavur-painting"
+            },
+            {
+                "name": "Hand Painted Srinath-Ji Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_7234711d08da48ccaf87a225b1b8904b~mv2.jpg/v1/fill/w_144,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/be4518_7234711d08da48ccaf87a225b1b8904b~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted--srinath-ji--thanjavur-painting"
+            },
+            {
+                "name": "Ayyappa Swamy Thanjavur Painting",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/be4518_db68a434c3904279885bf4d1efd1a41a~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/be4518_db68a434c3904279885bf4d1efd1a41a~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/ayyappa-swamy-thanjavur-painting"
+            }
+        ]
+    },
+    "brass": {
+        "count": 52,
+        "products": [
+            {
+                "name": "Radha Krishna Brass-6 Inches",
+                "price": "\u20b92,600.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_594527f8052f4434ae7c95789bf924ec~mv2.jpeg/v1/fill/w_229,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_594527f8052f4434ae7c95789bf924ec~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/radha-krishna-brass-6-inches"
+            },
+            {
+                "name": "Gaja Laxmi Brass - 2.7 inches",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_3282963fb4c14a1798b0c306f3b99d28~mv2.jpeg/v1/fill/w_352,h_280,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_3282963fb4c14a1798b0c306f3b99d28~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/gaja-laxmi-brass--27-inches"
+            },
+            {
+                "name": "Kubera Lakshmi Brass -5 Inches",
+                "price": "\u20b91,900.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_f970a09ff3674bc3a1e5b3377801eac5~mv2.jpeg/v1/fill/w_286,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_f970a09ff3674bc3a1e5b3377801eac5~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/kubera-lakshmi-brass-5-inches"
+            },
+            {
+                "name": "Leafs Brass",
+                "price": "\u20b93,600.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_136ba5b1c3e5427fad514725176f9acb~mv2.jpeg/v1/fill/w_169,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_136ba5b1c3e5427fad514725176f9acb~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/leafs-brass"
+            },
+            {
+                "name": "krishna Brass -5 inches",
+                "price": "\u20b9950.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_23002cb745de40128cf31ed14a3ee140~mv2.jpeg/v1/fill/w_161,h_230,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_23002cb745de40128cf31ed14a3ee140~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/krishna-brass-5-inches"
+            },
+            {
+                "name": "Buddha Brass-2 Inches",
+                "price": "\u20b9300.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_4cabd456bc124ec1baac988629eb0a33~mv2.jpeg/v1/fill/w_147,h_171,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_4cabd456bc124ec1baac988629eb0a33~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/buddha-brass-2-inches"
+            },
+            {
+                "name": "Lord Vishnu Brass-6.25 Inches",
+                "price": "\u20b93,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_94b4efc931ce4339950bc093dc6b59be~mv2.jpeg/v1/fill/w_143,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_94b4efc931ce4339950bc093dc6b59be~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-vishnu-brass-6-25-inches"
+            },
+            {
+                "name": "Lord Vishnu Brass -8 Inches",
+                "price": "\u20b95,100.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_39bf1e01233b4f66a30fd9e105115a08~mv2.jpeg/v1/fill/w_157,h_230,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_39bf1e01233b4f66a30fd9e105115a08~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-vishnu-brass-8-inches"
+            },
+            {
+                "name": "Laxmi Brass - 3.5 inches",
+                "price": "\u20b91,200.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_02428e0c812c49eb8dbef230ca444c85~mv2.jpeg/v1/fill/w_144,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_02428e0c812c49eb8dbef230ca444c85~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi-brass--35-inches"
+            },
+            {
+                "name": "Radha Krishna Brass-3.5 Inches",
+                "price": "\u20b91,300.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_79df3e29c3eb43a1b339e139c178c89f~mv2.jpeg/v1/fill/w_147,h_190,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_79df3e29c3eb43a1b339e139c178c89f~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/radha-krishna-brass-35-inches"
+            },
+            {
+                "name": "Shiva Brass - 4.5 Inches",
+                "price": "\u20b92,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_ab82fafdd40341c3a456e5016685f4db~mv2.jpeg/v1/fill/w_147,h_187,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_ab82fafdd40341c3a456e5016685f4db~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/shiva-brass--45-inches"
+            },
+            {
+                "name": "Peacock Brass-6 Inches",
+                "price": "\u20b93,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_dddc787e02a04fc0a52f10e300d9eec3~mv2.jpeg/v1/fill/w_147,h_103,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_dddc787e02a04fc0a52f10e300d9eec3~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/peacock-brass-6-inches"
+            },
+            {
+                "name": "Golden Brass Laxmi Urli Brass - 12 Inches",
+                "price": "\u20b99,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_241e9cd8968f405c8fcf4d435063cc90~mv2.jpeg/v1/fill/w_158,h_230,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_241e9cd8968f405c8fcf4d435063cc90~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/golden-brass-laxmi-urli-brass--12-inches"
+            },
+            {
+                "name": "Tangerine Peacock & Bell Oil Diya - Handcrafted Brass - 19 Inches",
+                "price": "\u20b910,200.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_6f89b1519ced4d2c971a8094bb8d2de5~mv2.jpeg/v1/fill/w_93,h_230,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_6f89b1519ced4d2c971a8094bb8d2de5~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/tangerine-peacock--bell-oil-diya--handcrafted-brass"
+            },
+            {
+                "name": "Vishnu Brass-16.25 inches",
+                "price": "\u20b913,200.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_28be43383cfd4b7088766b6eabb635ac~mv2.jpeg/v1/fill/w_114,h_230,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_28be43383cfd4b7088766b6eabb635ac~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/vishnu-brass-16-25-inches"
+            },
+            {
+                "name": "Vishnu Avatar Brass",
+                "price": "\u20b96,200.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_06485c21b3394e92a8e741b23c867706~mv2.jpeg/v1/fill/w_147,h_64,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_06485c21b3394e92a8e741b23c867706~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/vishnu-avatar-brass"
+            },
+            {
+                "name": "Lord Vishnu Brass -18 Inches",
+                "price": "\u20b918,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_234806ffed87452d9939a87712f65a39~mv2.jpeg/v1/fill/w_117,h_230,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_234806ffed87452d9939a87712f65a39~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-vishnu-brass-18-inches"
+            },
+            {
+                "name": "Saraswathi Brass- 1.75 inches",
+                "price": "\u20b9200.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_b26b2fca5e794961ae2b688346901c30~mv2.jpeg/v1/fill/w_147,h_164,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_b26b2fca5e794961ae2b688346901c30~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/saraswathi-brass-1-75-inches"
+            },
+            {
+                "name": "Ganesh Brass - 5.75 Inches",
+                "price": "\u20b94,450.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_d651de2d93ed479fa97dd57ef49784c6~mv2.jpeg/v1/fill/w_148,h_230,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_d651de2d93ed479fa97dd57ef49784c6~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/ganesh-brass--5-75-inches"
+            },
+            {
+                "name": "Vishnu Family Brass-5.25 Inches",
+                "price": "\u20b93,900.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_0e4d8f0406e14335b2e3a700d2db7048~mv2.jpeg/v1/fill/w_147,h_123,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_0e4d8f0406e14335b2e3a700d2db7048~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/vishnu-family-brass-5-25-inches"
+            },
+            {
+                "name": "Lord Vishnu Brass - 2 inches",
+                "price": "\u20b9300.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_61bf1e8122444f6a9e00b51654fa98b0~mv2.jpeg/v1/fill/w_147,h_187,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_61bf1e8122444f6a9e00b51654fa98b0~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-vishnu-brass--2-inches"
+            },
+            {
+                "name": "Brass Lord Venkateshwara - 3.75 inches",
+                "price": "\u20b9450.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_8a68db5b7fdb4f59a2aeae9585abe1e0~mv2.jpeg/v1/fill/w_147,h_191,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_8a68db5b7fdb4f59a2aeae9585abe1e0~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/brass-lord-venkateshwara--3-75-inches"
+            },
+            {
+                "name": "Lord Ayyappa Brass-4.25 Inches",
+                "price": "\u20b9900.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_be73f73174b1402b9d1101ad2ebe7919~mv2.jpeg/v1/fill/w_254,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_be73f73174b1402b9d1101ad2ebe7919~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-ayyappa-brass-4-25-inches"
+            },
+            {
+                "name": "Radha Krishna Brass -3.5 inches",
+                "price": "\u20b91,300.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_7fdc7c4c6c9d495a8b0fbc0ff675b205~mv2.jpeg/v1/fill/w_253,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_7fdc7c4c6c9d495a8b0fbc0ff675b205~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/radha-krishna-brass-3-5-inches"
+            },
+            {
+                "name": "Vishnu Laxmi Brass-2 inches",
+                "price": "\u20b9650.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_fbc67016305e48ee92a511ea5c2accbb~mv2.jpeg/v1/fill/w_352,h_317,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_fbc67016305e48ee92a511ea5c2accbb~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/vishnu-laxmi-brass-2-inches"
+            },
+            {
+                "name": "Lord Krishna Brass-3.5 Inches",
+                "price": "\u20b91,650.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_b16f2219a5354a81b47649e0ddc6ec67~mv2.jpeg/v1/fill/w_257,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_b16f2219a5354a81b47649e0ddc6ec67~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-krishna-brass-3-5-inches"
+            },
+            {
+                "name": "Laxmi Brass - 3.5 Inches",
+                "price": "\u20b9900.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_982e763d42064c22b951ec4ed0d267bf~mv2.jpeg/v1/fill/w_272,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_982e763d42064c22b951ec4ed0d267bf~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi-brass-3-5-inches"
+            },
+            {
+                "name": "Nandi Brass-2.25 Inches",
+                "price": "\u20b9900.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_359e09ae9d43409b95fcd1799c14aaf9~mv2.jpeg/v1/fill/w_312,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_359e09ae9d43409b95fcd1799c14aaf9~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/nandi-brass-2-25-inches"
+            },
+            {
+                "name": "Laxmi Brass - 3 Inches",
+                "price": "\u20b9500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_2f6f8fea6dba4b4990fafa10877e71de~mv2.jpeg/v1/fill/w_147,h_175,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_2f6f8fea6dba4b4990fafa10877e71de~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi-brass--3-inches"
+            },
+            {
+                "name": "Laxmi Brass - 3 Inches",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_fb5e26bb831b4e019772b47313af706c~mv2.jpeg/v1/fill/w_147,h_188,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_fb5e26bb831b4e019772b47313af706c~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi-brass---3-inches"
+            },
+            {
+                "name": "Laxmi Brass - 3.5 inches",
+                "price": "\u20b91,350.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_0239cb76593741808445d655fe0798df~mv2.jpeg/v1/fill/w_147,h_185,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_0239cb76593741808445d655fe0798df~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi-brass---3-5-inches"
+            },
+            {
+                "name": "Laxmi Brass - 3 inches",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_0c3d9be20c6c4fdcbb9c79c0a1fbf1e5~mv2.jpeg/v1/fill/w_147,h_157,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_0c3d9be20c6c4fdcbb9c79c0a1fbf1e5~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi-brass--3--inches"
+            },
+            {
+                "name": "Laxmi Brass - 3.5 Inches",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_3a40d0a4625b45469a127696f60450c6~mv2.jpeg/v1/fill/w_147,h_181,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_3a40d0a4625b45469a127696f60450c6~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi-brass--3--5-inches"
+            },
+            {
+                "name": "Laxmi Brass -3.5 Inches",
+                "price": "\u20b91,200.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_4dcf28c9c38742debfdb7b041d30d461~mv2.jpeg/v1/fill/w_147,h_175,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_4dcf28c9c38742debfdb7b041d30d461~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi--brass-35-inches"
+            },
+            {
+                "name": "Laxmi Brass -4 Inches",
+                "price": "\u20b91,750.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_51f0db15ce9a4ab2827f8afa20099e1a~mv2.jpeg/v1/fill/w_147,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_51f0db15ce9a4ab2827f8afa20099e1a~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi-brass-4-inches"
+            },
+            {
+                "name": "Venkateshwara Naamam Brass-4 Inches",
+                "price": "\u20b92,200.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_42d7881f5774402ab7722a60f56a426c~mv2.jpeg/v1/fill/w_147,h_100,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_42d7881f5774402ab7722a60f56a426c~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/venkateshwara-naamam-brass-4-inches"
+            },
+            {
+                "name": "Kamadhenu Brass - 3.5 Inches",
+                "price": "\u20b91,100.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_7eefa60dc0654a31b0b8b806fce5246c~mv2.jpeg/v1/fill/w_147,h_173,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_7eefa60dc0654a31b0b8b806fce5246c~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/kamadhenu-brass--35-inches"
+            },
+            {
+                "name": "Kamadhenu Brass - 4.5 Inches",
+                "price": "\u20b92,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_5ba65cecb214465bbf370d956ffbf6bf~mv2.jpeg/v1/fill/w_147,h_200,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_5ba65cecb214465bbf370d956ffbf6bf~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/kamadhenu-brass--45-inches"
+            },
+            {
+                "name": "Vishnu Brass - 3.5 Inches",
+                "price": "\u20b9900.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_a9926886aeab4249b2be8e1cc224e3b9~mv2.jpeg/v1/fill/w_147,h_166,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_a9926886aeab4249b2be8e1cc224e3b9~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/vishnu-brass--35-inches"
+            },
+            {
+                "name": "Radha Krishna Brass-2.5 Inches",
+                "price": "\u20b9500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_d25094def0fe47cc8b6f8b58f81f742c~mv2.jpeg/v1/fill/w_147,h_154,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_d25094def0fe47cc8b6f8b58f81f742c~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/radha-krishna-brass-25-inches"
+            },
+            {
+                "name": "Venkateshwara Brass-2 inches",
+                "price": "\u20b9300.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_96863ac3aaa840378c82b14b2c3d745e~mv2.jpeg/v1/fill/w_147,h_197,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_96863ac3aaa840378c82b14b2c3d745e~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/venkateshwara-brass-2-inches"
+            },
+            {
+                "name": "Annapurna Devi Brass - 2.75 Inches",
+                "price": "\u20b9600.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_7dfcbb8362c84206ad52cdacef2175be~mv2.jpeg/v1/fill/w_147,h_144,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_7dfcbb8362c84206ad52cdacef2175be~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/annapurna-devi-brass--2-75-inches"
+            },
+            {
+                "name": "Ganesh Brass - 3 Inches",
+                "price": "\u20b91,280.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_deae5cf354154ab49ee0ea92a5738bc8~mv2.jpeg/v1/fill/w_147,h_145,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_deae5cf354154ab49ee0ea92a5738bc8~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/ganesh-brass--3-inches"
+            },
+            {
+                "name": "Venkateshwara Family Brass-4 Inches",
+                "price": "\u20b91,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_c4ae6cbdecc44e63ae6eec428db3b90e~mv2.jpeg/v1/fill/w_147,h_161,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_c4ae6cbdecc44e63ae6eec428db3b90e~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/venkateshwara-family-brass-4-inches"
+            },
+            {
+                "name": "Vishnu Laxmi Brass - 4.5 Inches",
+                "price": "\u20b91,900.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_0c05b8c120214ef19b1227671cc1ff2d~mv2.jpeg/v1/fill/w_147,h_183,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_0c05b8c120214ef19b1227671cc1ff2d~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/vishnu-laxmi-brass--45-inches"
+            },
+            {
+                "name": "Laxmi Narasimha Brass - 2.75 Inches",
+                "price": "\u20b9900.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_2a87057732b74a49943007ced852fb31~mv2.jpeg/v1/fill/w_147,h_174,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_2a87057732b74a49943007ced852fb31~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi-narasimha-brass--2-75-inches"
+            },
+            {
+                "name": "Venkateshwara Brass - 3.5 inches",
+                "price": "\u20b9600.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_533c7c0ce7154a76b950f2e4cb6e6d2d~mv2.jpeg/v1/fill/w_258,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_533c7c0ce7154a76b950f2e4cb6e6d2d~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/venkateshwara-brass--3--5-inches"
+            },
+            {
+                "name": "Laxmi Narasimha Brass - 3.25 inches",
+                "price": "\u20b9900.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_552501331c9f4f1ba00291ba4b5c53ae~mv2.jpeg/v1/fill/w_263,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_552501331c9f4f1ba00291ba4b5c53ae~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/laxmi-narasimha-brass--3-25-inches"
+            },
+            {
+                "name": "Lord Krishna Brass - 9 inches",
+                "price": "\u20b99,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_76f8848233ee472c99213ec8b9b1b544~mv2.jpeg/v1/fill/w_270,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_76f8848233ee472c99213ec8b9b1b544~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/lord-krishna-brass--9-inches"
+            },
+            {
+                "name": "Elephant Brass - 2 inches",
+                "price": "\u20b9500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_6dc742670a2a46459936abbac833d365~mv2.jpeg/v1/fill/w_352,h_346,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_6dc742670a2a46459936abbac833d365~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/elephant-brass--2-inches"
+            },
+            {
+                "name": "Ganesh Brass- 5 inches",
+                "price": "\u20b93,650.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_be528c7079064ec1866829a25986f3bb~mv2.jpeg/v1/fill/w_253,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_be528c7079064ec1866829a25986f3bb~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/ganesh-brass-5-inches"
+            },
+            {
+                "name": "Bird Brass-5.5 inches",
+                "price": "\u20b93,200.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_0f6bdcb73ac045eaa76ec4051fbf1aa0~mv2.jpeg/v1/fill/w_295,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_0f6bdcb73ac045eaa76ec4051fbf1aa0~mv2.jpeg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/bird-brass-55-inches"
+            }
+        ]
+    },
+    "painted_wall_plates": {
+        "count": 19,
+        "products": [
+            {
+                "name": "Hand Painted And Carved Pichwai Cow Wooden Plate",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_74699332bfb84a75a8499ed80338d969~mv2.jpg/v1/fill/w_253,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_74699332bfb84a75a8499ed80338d969~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-and-carved-pichwai-cow-wooden-plate"
+            },
+            {
+                "name": "Hand Painted Wooden Pichwai Elephant",
+                "price": "\u20b91,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_9f76e38bc1db40c2bb8dab49fac8625b~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_9f76e38bc1db40c2bb8dab49fac8625b~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-wooden-pichwai-elephant"
+            },
+            {
+                "name": "Hand Painted Wooden Pichwai Cow",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_4b342f0908d14e47b15e30fcc9bda21c~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_4b342f0908d14e47b15e30fcc9bda21c~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-wooden-pichwai-cow"
+            },
+            {
+                "name": "Hand Painted Wooden Pichwai Cow",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_3cfd2bf3932a4bb89ea76612a379a1b6~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_3cfd2bf3932a4bb89ea76612a379a1b6~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-wooden---pichwai-cow"
+            },
+            {
+                "name": "Hand Painted Ganesh Wooden Plate",
+                "price": "\u20b92,700.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_d1ef7adaaf4e4d37bf0d4ceb742d6f8e~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_d1ef7adaaf4e4d37bf0d4ceb742d6f8e~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-ganesh-wooden-plate"
+            },
+            {
+                "name": "Hand Painted And Carved Krishna Wooden Plate",
+                "price": "\u20b92,600.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_3052d4896fce427e98bbd822d9338e14~mv2.jpg/v1/fill/w_147,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_3052d4896fce427e98bbd822d9338e14~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-and-carved-krishna-wooden-plate"
+            },
+            {
+                "name": "Hand Painted And Carved Pichwai Cow Wooden Plate",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_3462e013b75f48b5838e11a56ae5caa7~mv2.jpg/v1/fill/w_147,h_196,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_3462e013b75f48b5838e11a56ae5caa7~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-and-carved-pichwai-cow-wooden--plate"
+            },
+            {
+                "name": "Hand-Painted and Carved Radha Krishna Wooden Plate",
+                "price": "\u20b93,100.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_4f4dce2f94954dd09ea1fc0096ad0143~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_4f4dce2f94954dd09ea1fc0096ad0143~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-and-carved-radha-krishna-wooden-plate"
+            },
+            {
+                "name": "Hand Painted Pichwai Birds Wooden Plate",
+                "price": "\u20b92,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_9561478e807c4942bc33ef470e2a94ff~mv2.jpg/v1/fill/w_147,h_213,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_9561478e807c4942bc33ef470e2a94ff~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-pichwai-birds-wooden-plate"
+            },
+            {
+                "name": "Hand Painted Pichwai Birds Wooden Plate",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_173b31c9271e4f80b78d5bef848afbcd~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_173b31c9271e4f80b78d5bef848afbcd~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted---pichwai-birds-wooden-plate"
+            },
+            {
+                "name": "Hand Painted Ganesh Wooden Plate",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_e4f35163c945439a90ccaace84166e4e~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_e4f35163c945439a90ccaace84166e4e~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand--painted-ganesh-wooden-plate"
+            },
+            {
+                "name": "Hand Painted Pichwai Birds Wooden Plate",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_fe1f2303f4de406381fc062dfe9ad268~mv2.jpg/v1/fill/w_147,h_202,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_fe1f2303f4de406381fc062dfe9ad268~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-pichwai-birds-wooden---plate"
+            },
+            {
+                "name": "Hand Painted and Carved Pichwai Cow Wooden Plate",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_f88a67530dc440419fc1cd38d07c743e~mv2.jpg/v1/fill/w_147,h_185,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_f88a67530dc440419fc1cd38d07c743e~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-and-carved---pichwai-cow-wooden-plate"
+            },
+            {
+                "name": "Hand Painted And Carved Pichwai Cow Wooden Plate",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_a868185f5d63409682cb698696e6d573~mv2.jpg/v1/fill/w_147,h_185,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_a868185f5d63409682cb698696e6d573~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-and-carved-pichwai-cow-wooden----plate"
+            },
+            {
+                "name": "Hand Painted and Carved Pichwai Cow Wooden Plate",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_f58ab90eb998419ca7abfe0f64e6ea52~mv2.jpg/v1/fill/w_147,h_195,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_f58ab90eb998419ca7abfe0f64e6ea52~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-and-carved-pichwai--cow-wooden-plate"
+            },
+            {
+                "name": "Hand Painted Wooden Kalamkari",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_c7ca872a516e41cb9ed3dbbe28f8c37f~mv2.jpg/v1/fill/w_147,h_188,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_c7ca872a516e41cb9ed3dbbe28f8c37f~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand--painted-wooden-kalamkari"
+            },
+            {
+                "name": "Hand Painted Wooden Kalamkari",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_058ac67864404d02b36faf4ce24119ca~mv2.jpg/v1/fill/w_147,h_198,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_058ac67864404d02b36faf4ce24119ca~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-wooden-kalamkari"
+            },
+            {
+                "name": "Hand Painted Wooden Kalamkari",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_028a398df31f44b2a9cf48f52bfe21d3~mv2.jpg/v1/fill/w_147,h_181,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_028a398df31f44b2a9cf48f52bfe21d3~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hand-painted-wooden----kalamkari"
+            },
+            {
+                "name": "Wooden Wall Pichwai Flower",
+                "price": "\u20b90.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_7780dd3568704088938de0cbc78221f4~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_7780dd3568704088938de0cbc78221f4~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/wooden-wall-pichwai-flower"
+            }
+        ]
+    },
+    "cheriyal_masks_and_sculptures": {
+        "count": 8,
+        "products": [
+            {
+                "name": "Cheriyal Ganesha - Red, Handmade And Painted By Hand",
+                "price": "\u20b91,700.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_6ffd1a01a04e4b839ee631ed659fde17~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_6ffd1a01a04e4b839ee631ed659fde17~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/cheriyal-ganesha--red-handmade-and-painted-by-hand"
+            },
+            {
+                "name": "Yellow Color Man And Woman Cheriyal Mask, Handmade And Painted By Hand",
+                "price": "\u20b91,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_68475d00267744b2b37ee7c54dd45cfb~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_68475d00267744b2b37ee7c54dd45cfb~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/yellow-color-man-and-woman-cheriyal-mask-handmade-and"
+            },
+            {
+                "name": "Garuda Cheriyal Mask, Handmade And Painted By Hand",
+                "price": "\u20b91,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_3c3a80e29cc44f079f8c0d4c6bbeb04a~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_3c3a80e29cc44f079f8c0d4c6bbeb04a~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/garuda-cheriyal-mask-handmade-and-painted-by-hand"
+            },
+            {
+                "name": "Hanuman, Handmade And Painted By Hand",
+                "price": "\u20b91,600.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_d3e7f66e15654af28801aa1c44d52e10~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_d3e7f66e15654af28801aa1c44d52e10~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/hanuman-handmade-and-painted-by-hand"
+            },
+            {
+                "name": "Handcrafted And Painted Cow By Hand",
+                "price": "\u20b91,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_643a655049084ffba60ef0168ea92834~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_643a655049084ffba60ef0168ea92834~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/handcrafted-and-painted-cow-by-hand"
+            },
+            {
+                "name": "Krishna's Cheriyal Mask, Handmade And Painted By Hand",
+                "price": "\u20b91,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_8878a94ef36b436793222a93fdb4cc8d~mv2.jpg/v1/fill/w_147,h_220,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f48898_8878a94ef36b436793222a93fdb4cc8d~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/krishnas-cheriyal-mask-handmade-and-painted-by-hand"
+            },
+            {
+                "name": "Red Man And Woman Cheriyal Mask, Handmade And Painted By Hand",
+                "price": "\u20b93,000.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_ebe3fc984ce74b2ea8c975b4af2b9a90~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_ebe3fc984ce74b2ea8c975b4af2b9a90~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/red-man-and-woman-cheriyal-mask-handmade-and-painted-b"
+            },
+            {
+                "name": "Cheriyal Man And Woman Sculpture, Handmade And Painted By Hand",
+                "price": "\u20b91,500.00",
+                "image_url": "https://static.wixstatic.com/media/f48898_f3f67a9b8fb04d2f8b5243cef1f159af~mv2.jpg/v1/fill/w_235,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f48898_f3f67a9b8fb04d2f8b5243cef1f159af~mv2.jpg",
+                "detail_url": "https://www.preciousthingsdecor.com/product-page/cheriyal-man-and-woman-sculpture-handmade-and-painted"
+            }
+        ]
+    }
+}
